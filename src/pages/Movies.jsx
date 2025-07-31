@@ -1,7 +1,7 @@
 import React from 'react'
 
-const Home = () => {
+const Movies = () => {
     return <div></div>
 }
 
-export default Home
+export default Movies
